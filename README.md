@@ -8,7 +8,7 @@ I will be adding new features in the near future. ;)
 
 ---
 
-# Web Application:
+# WEB APPLICATION:
 
 ![Mockup Web](docs/assets/mockupweb2.jpg)
 
@@ -24,7 +24,7 @@ The web features currently include:
 
 ---
 
-# Mobile Application:
+# MOBILE APPLICATION:
 
 ![Mockup Web](docs/assets/mockupmobile.png)
 
@@ -48,3 +48,25 @@ The mobile features currently include:
 <img src="docs/assets/express.svg"></img>
 
 The API holds our database and controls it.
+
+---
+
+## HOW TO RUN
+
+Each one of the projects (web, mobile and API) can be installed with
+
+```
+npm install
+```
+
+API and Web can be launched with:
+
+```
+npm run dev
+```
+
+For mobile application launch:
+
+```
+npm run start
+```
